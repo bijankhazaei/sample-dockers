@@ -1,4 +1,5 @@
 .env
-mysql/data
-filebeat_ingest_data
-logstash_ingest_data
+mysql/*
+filebeat_ingest_data/*
+logstash_ingest_data/*
+minio/*
